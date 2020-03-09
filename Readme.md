@@ -4,6 +4,7 @@
 Goal: 
 =====
 Decouple when a message or event is sent from when it is processed.
+
 Files:
 =====
 eventApi.h                      Public api
